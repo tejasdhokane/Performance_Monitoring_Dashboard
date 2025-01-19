@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Performance Monitoring Dashboard.props" />
+</Project>
