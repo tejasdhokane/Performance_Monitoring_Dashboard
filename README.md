@@ -18,5 +18,7 @@
                It is designed for deployment on IIS, Azure, or other compatible environments, with security measures like data protection, input validation, 
                and secure authentication. The application ensures a scalable and maintainable architecture for managing online retail operations and performance monitoring.
 
-*OUTPUT : 
+*OUTPUT* :
+
+![Image](https://github.com/user-attachments/assets/7388e0c9-42da-4be6-8bec-0254a549f00d)
  
